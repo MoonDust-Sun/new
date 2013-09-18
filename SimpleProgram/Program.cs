@@ -151,4 +151,9 @@ namespace ConsoleBackgroundMaker
             return doCancel;
         }
     }
+
+    class add
+    {
+        
+    }
 }
